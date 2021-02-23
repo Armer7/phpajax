@@ -1,0 +1,9 @@
+body{
+  margin: 15px;
+  font-size: 25px;
+}
+
+select {
+  padding: 10px;
+  cursor: pointer;
+}
